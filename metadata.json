@@ -1,0 +1,6 @@
+{
+  "name": "Eventra — Event Operations, Reimagined.",
+  "description": "A complete, production-quality, full-stack event operations platform featuring QR scanning, concurrency-safe check-ins, real-time dashboards, and AI-powered event insights.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
